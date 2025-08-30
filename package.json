@@ -1,0 +1,26 @@
+  {
+    "name": "earthquake-visualizer",
+    "version": "1.0.0",
+    "description": "This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.",
+    "dependencies": {
+      "leaflet": "^1.9.4",
+      "react": "^19.1.1",
+      "react-dom": "^19.1.1",
+      "react-leaflet": "^5.0.0",
+      "scheduler": "^0.26.0"
+    },
+    "devDependencies": {
+      "@vitejs/plugin-react": "^5.0.2",
+      "nodemon": "^3.1.10",
+      "vite": "^7.1.3"
+    },
+    "scripts": {
+      "dev": "vite",
+      "build": "vite build",
+      "preview": "vite preview",
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+  }
