@@ -30,7 +30,7 @@ https://shantanu-earthquake-map.netlify.app/
 
 1.  **Clone the repository:**
     ```bash
-    git clone <<YOUR REPO URL>>
+    git clone https://github.com/shan200333/Earthquake-Visualizer.git
     ```
 2.  **Navigate to the project directory:**
     ```bash
